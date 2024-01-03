@@ -11,7 +11,7 @@
 
 <a href="https://t.me/sss">
 
-  <img align="left" alt="Garz Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  g" />
 
 </a>
 
