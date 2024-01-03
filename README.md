@@ -20,4 +20,3 @@
 
 𝗜'𝗺 [Rifki Al Bot](https://github.com/Rifkialbot2)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GarzProject&show_icons=true&hide_border=true">
