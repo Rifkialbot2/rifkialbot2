@@ -6,13 +6,13 @@
 
 </a>
 
-<a href="https://github.com/GarzProject">
+<a href="https://github.com/Rifkialbot2">
 
   <img align="left" alt="Garz Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 </a>
 
-<a href="https://t.me/ImGarz">
+<a href="https://t.me/sss">
 
   <img align="left" alt="Garz Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 
@@ -22,6 +22,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-𝗜'𝗺 [Tegar Prayuda](https://github.com/GarzProject)
+𝗜'𝗺 [Rifki Al Bot](https://github.com/Rifkialbot2)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GarzProject&show_icons=true&hide_border=true">
