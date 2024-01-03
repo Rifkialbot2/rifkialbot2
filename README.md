@@ -11,7 +11,6 @@
 
 <a href="https://t.me/sss">
 
-  g" />
 
 </a>
 
